@@ -1,0 +1,27 @@
+body{
+    background-color: #59788E;
+    font-family: "Verdana", sans-serif ;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: #87A96B;
+}
+
+h1 {
+    font-family: "Press Start 2P", sans-serif;
+}
+
+img {
+    width: 50%;
+    border-radius: 10px;
+    border-style: inset;
+    border-color: black;
+}
+
+
+
